@@ -8,10 +8,6 @@ This is completed Pharmacy Management System developed using MERN stack technolo
 
 ## Features
 
-- During this course we will:
-
-
-
 - Build API endpoints with Express
 
 - Build authentication with JSON Web Token including User Registration, Login and Password Reset
